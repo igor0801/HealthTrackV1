@@ -1,0 +1,135 @@
+.cabeçalho
+{
+    background-color: #1d9f4d;
+    width: 1350px;
+    height: 180px;
+    position: relative;
+    float: right;
+    border: 1px solid black;
+    display: table;
+}
+.img4
+{
+    display: table-cell;
+    float: left;
+    margin-top: 30px;
+    width: 675px;
+    margin-left: 60px;
+}
+.menu
+{
+    display: table-cell;
+    float: right;
+    width: 675px;
+    font-size: 20px;
+    color: white;
+    margin-top: -110px;
+}
+.escuro
+{
+    background-color: #dcf8c6;
+    width: 1350px;
+    height: 400px;
+    position: relative;
+    float: right;
+    border: 1px solid #1d9f4d;
+    text-align: left;
+    font-size: 22px;
+}
+.claro
+{
+    background-color: #dcf8c6;
+    width: 1350px;
+    height: 400px;
+    position: relative;
+    float: right;
+    border: 1px solid #1d9f4d;
+    text-align: right;
+    font-size: 22px;
+}
+.separation1, .separation2, .sepatarion3
+{
+    display: table;
+}
+.txt1
+{
+    display: table-cell;
+    float: left;
+    width: 675px;
+    margin-left: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+.img1
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    display: table-cell;
+    float: left;
+    text-align: 15px;
+}
+.txt2
+{
+    display: table-cell;
+    float: right;
+    width: 675px;
+    margin-left: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+.img2
+{
+    margin-top: 20px;
+    margin-left: 40px;
+    display: table-cell;
+    float: left;
+    text-align: 15px;
+}
+.txt3
+{
+    display: table-cell;
+    float: left;
+    width: 675px;
+    margin-left: 15px;
+    margin-top: 40px;
+    text-align: center;
+}
+.img3
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    display: table-cell;
+    float: left;
+    text-align: 15px;
+}
+.txt4
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.button
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  width: 280px;
+  height: 40px;
+  background-color: #1d9f4d;
+  padding: 9px 50px;
+  border: 1px solid black;
+  color: black;
+  font-weight: bold;
+}
+.end
+{
+    background-color: #1d9f4d;
+    width: 1350px;
+    height: 180px;
+    position: relative;
+    float: right;
+    border: 1px solid black;
+    display: table;
+}
+.txt6
+{
+    margin-top: 40px;
+}

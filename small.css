@@ -1,0 +1,122 @@
+@media screen and (max-device-width: 1000px)
+{
+    *
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+    .bloco
+    {
+        position: relative;
+        width: 1000px;
+        height: 1300px;
+    }
+    .cabeçalho
+    {
+        background-color: #1d9f4d;
+        width: 1000px;
+        height: 250px;
+        position: relative;
+        float: right;
+        border: 1px solid black;
+        display: table;
+    }
+    .img4
+    {
+        display: table-cell;
+        float: left;
+        margin-top: 60px;
+        width: 500px;
+        margin-left: -50px;
+    }
+    .menu
+    {
+        display: table-cell;
+        float: right;
+        width: 500px;
+        font-size: 45px;
+        color: white;
+        margin-top: 20px;
+    }
+    .escuro
+    {
+        background-color: #dcf8c6;
+        width: 1000px;
+        height: 980px;
+        position: relative;
+        float: right;
+        border: 1px solid #1d9f4d;
+        text-align: center;
+        font-size: 30px;
+    }
+    .claro
+    {
+        background-color: #dcf8c6;
+        width: 1000px;
+        height: 900px;
+        position: relative;
+        float: right;
+        border: 1px solid #1d9f4d;
+        text-align: center;
+        font-size: 30px;
+    }
+    .separation1, .separation2, .separation3
+    {
+        display: table;
+    }
+    .txt1, .txt2, .txt3
+    {
+        display: table-cell;
+        float: center;
+        width: 1000px;
+        margin-left: 20px;
+        margin-top: 40px;
+        text-align: initial;
+    }
+    h1
+    {
+        text-align: center;
+    }
+    .img1, .img2, .img3
+    {
+        margin-top: 10px;
+        margin-left: 125px;
+        display: table-cell;
+        float: left;
+        text-align: 15px;
+    }
+    .txt4
+    {
+        text-align: center;
+        margin-top: 50px;
+        font-size: 55px;
+    }
+    .button
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        width: 400px;
+        height: 60px;
+        background-color: #1d9f4d;
+        padding: 9px 50px;
+        border: 1px solid black;
+        color: black;
+        font-weight: bold;
+    }
+    .end
+    {
+        background-color: #1d9f4d;
+        width: 1100px;
+        height: 250px;
+        position: relative;
+        float: right;
+        border: 1px solid black;
+        display: table;
+    }
+    .txt6
+    {
+        margin-top: 60px;
+        margin-left: 80px;
+        font-size: 30px;
+    }
+}
