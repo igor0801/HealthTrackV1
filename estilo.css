@@ -3,7 +3,7 @@
     background-color: #1d9f4d;
     width: 1350px;
     height: 180px;
-    position: relative;
+    position: center;
     float: right;
     border: 1px solid black;
     display: table;
@@ -18,7 +18,7 @@
 }
 .menu
 {
-    display: table-cell;
+    display: inline-block;
     float: right;
     width: 675px;
     font-size: 20px;
@@ -29,7 +29,7 @@
 {
     background-color: #F5F5F5;
     width: 1350px;
-    height: 400px;
+    height: 600px;
     position: relative;
     float: right;
     border: 1px solid #F5F5F5;
